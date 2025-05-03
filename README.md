@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/matthewdcage-cursor-mcp-installer-badge.png)](https://mseep.ai/app/matthewdcage-cursor-mcp-installer)
+
 # Cursor MCP Installer
 
 <div align="center">
